@@ -17,5 +17,5 @@ Ideal for dashboards, stats sections, landing pages, or anywhere you want to vis
 
 
 🛠️ Usage
-Just set the target number in the HTML or via JavaScript, and the counter will roll up from zero as soon as the page is ready.
+  Just set the target number in the HTML or via JavaScript, and the counter will roll up from zero as soon as the page is ready.
 
